@@ -1,11 +1,11 @@
 # raydium-swap
 Python RaydiumSwap class for building transactions on solana
 
-The class only builds a transaction for you, then you need to signe it and send it to solana network.
+The class **builds a transaction**, signing and posting it on chain needs to be done separately.
 
 data sources:
-* [trade API](https://docs.raydium.io/raydium/traders/trade-api)
-* [https://docs.raydium.io/raydium/traders/trade-api](https://api-v3-devnet.raydium.io/docs/)
+* [https://docs.raydium.io/raydium/traders/trade-api](https://docs.raydium.io/raydium/traders/trade-api)
+* [https://api-v3-devnet.raydium.io/docs/](https://api-v3-devnet.raydium.io/docs/)
 
 # Class functions
 All the functions have DOC
